@@ -1,3 +1,14 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "Homepage"
+
+[languages]
+  [languages.fr]
+    subtitle = "Votre assistant virtuel personnalisé"
+    title = "100DRA"
+    weight = 1
+
+  [languages.en]
+    title = "100DRA"
+    subtitle = "Your personal virtual assistant"
+    weight = 2
